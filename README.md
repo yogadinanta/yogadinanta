@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://yogadinanta)
-<h1 align="center">Hi 👋, I'm yoga dinanta</h1>
+<h1 align="center">Hi 👋, I'm i komang yoga dinanta</h1>
 <h3 align="center">I'am young programmer from indonesia i like to learn python #TogetherBuildYourDream</h3> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogadinanta" alt="yogadinanta" /></a> </p>
