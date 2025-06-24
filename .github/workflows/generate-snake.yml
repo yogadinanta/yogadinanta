@@ -16,7 +16,7 @@ jobs:
           outputs: |
             dist/snake.svg
 
-      - name: Push to output branch
+      - name: Push the animation to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
           target_branch: output
