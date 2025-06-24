@@ -21,7 +21,9 @@
 
 <br/>  
 
+<img src="https://raw.githubusercontent.com/yogadinanta/yogadinanta/output/snake.svg" alt="Snake animation" />
 
+###
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
