@@ -84,6 +84,13 @@
 <img src="https://raw.githubusercontent.com/yogadinanta/yogadinanta/output/snake.svg" alt="Snake animation" />
 
 ###
+### 📈 My GitHub Stats & Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yogadinanta&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yogadinanta&theme=dracula)](https://git.io/streak-stats)
+
+![GitHub repo creation stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogadinanta&theme=dracula)
 
 ###
 
