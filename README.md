@@ -75,9 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yogadinanta/count.svg?"  />
-</div>
+
 
 ###
 
