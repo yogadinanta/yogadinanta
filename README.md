@@ -84,7 +84,7 @@
 <img src="https://raw.githubusercontent.com/yogadinanta/yogadinanta/output/snake.svg" alt="Snake animation" />
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=yogadinanta&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogadinanta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
