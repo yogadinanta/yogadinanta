@@ -82,7 +82,7 @@
 <img src="https://raw.githubusercontent.com/yogadinanta/yogadinanta/output/snake.svg" alt="Snake animation" />
 
 ###
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogadinanta&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yogadinanta&line=00ff00&point=00ff88&area=ccffcc&color=00ff00&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
